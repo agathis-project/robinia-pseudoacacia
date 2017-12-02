@@ -27,7 +27,7 @@ based on the following:
 
 A high level view of the lab setup is the following:
 
-![Remote Test Concept](https://github.com/agathis-project/robinia-pseudoacacia/blob/AP-6_Draft/doc/AP-6_concept.png)
+![Remote Test Concept](https://github.com/agathis-project/robinia-pseudoacacia/blob/master/doc/AP-6_concept.png)
 
 It consists of:
 
